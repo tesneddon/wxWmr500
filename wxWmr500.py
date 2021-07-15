@@ -163,7 +163,7 @@ class wxWmr500(weewx.drivers.AbstractDevice):
                                       # 18 segments,
                                       'windSpeed': outdoor['w2']['c21'],
                                       'windDir': outdoor['w2']['c23'] * 18,
-                                      'windGust': outdoor['w2']['c29'],
+                                      'windGust': outdoor['w2']['c22'],
                                       'windGustDir': outdoor['w2']['c24'] * 18,
 
                                       'rain': 0,
@@ -210,4 +210,4 @@ class wxWmr500(weewx.drivers.AbstractDevice):
 
     @property
     def hardware_name(self):
-        return "wxWmr500"
+        return "Oregon Scientific WMR500"
