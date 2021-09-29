@@ -1,39 +1,37 @@
 ## Oregon Scientific WMR500 Driver for WeeWX
 
-Initial commit to gh-pages...
+The WMR500 All-In-One Weatehr Station is a low-end weather station released by the company Oregon Scientific. 
+Oregon Scientific (or IDT Technology Limited) previously provided a website and mobile app for accessing the
+station and retrieving weather data.
 
-You can use the [editor on GitHub](https://github.com/tesneddon/wxWmr500/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Unfortunately, the quality of the app and the website leaves much to be desired.  As a result, I have developed
+a driver to allow the WMR500 to supply data to the weather software system [WeeWX](https://weewx.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To see it in action, have a look (here)[http://fw9238.cmkrnl.io/].
 
-### Markdown
+### Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Drop some useful information in here...as well as pointers to the wiki...
 
-```markdown
-Syntax highlighted code block
+### Useful Links
 
-# Header 1
-## Header 2
-### Header 3
+The following is a collection of useful links related to the WMR500 Weather Station.
 
-- Bulleted
-- List
+- (WMR500 Product Information)[https://www.oregonscientificstore.com/p-407-oregon-scientific-wmr500-professional-all-in-one-weather-station.aspx]
+- (WMR500 User Manual)[https://www.oregonscientificstore.com/manual/WMR500.pdf]
+- (WeeWX and the Oregon Scientific WMR500)[http://tim.sneddon.id.au/blog/Posts/Weewx_and_the_Oregon_Scientific_WMR500]
+- (Downloading data from the Oregon Scientific WMR500 meteorological station)[https://tech-en.netlify.app/articles/en511850/index.html]
+- (Data Fetcher for Oregon Scientific WMR500 from AWS IoT Core)[https://github.com/NickyX3/OS_WMR500_Fetcher]
+- (Download Smart Living WMR500 1.4 APK)[https://apkfun.com/Smart-Living-WMR500.html]
 
-1. Numbered
-2. List
+### Public WeeWX WMR500 Weather Stations
 
-**Bold** and _Italic_ and `Code` text
+The following is a list of publicly visible WMR500 weather stations using this WeeWX driver around the world.
+Don't see yours here?  Submit an issue and get it added.
 
-[Link](url) and ![Image](src)
-```
+- (FW9238)[http://fw9238.cmkrnl.io/] -- High Wycombe, Western Australia
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Support
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tesneddon/wxWmr500/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+wxWmr500 is an open source project, maintained in my spare time.  If you find an issue or have a problem with the
+software, please submit a (GitHub issue([https://github.com/tesneddon/wxWmr500/issues/new] that I can review.
