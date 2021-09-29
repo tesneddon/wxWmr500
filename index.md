@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Oregon Scientific WMR500 Driver for WeeWX
+
+Initial commit to gh-pages...
 
 You can use the [editor on GitHub](https://github.com/tesneddon/wxWmr500/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
