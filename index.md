@@ -1,7 +1,7 @@
 ## Oregon Scientific WMR500 Driver for WeeWX
 
-The WMR500 All-In-One Weatehr Station is a low-end weather station released by the company Oregon Scientific. 
-Oregon Scientific (or IDT Technology Limited) previously provided a website and mobile app for accessing the
+The WMR500 All-In-One Weatehr Station is a low-end weather station released by the company [Oregon Scientific](http://www.idthk.com/list-32.html). 
+Oregon Scientific (or [IDT Technology Limited](http://www.idthk.com/index.html)) previously provided a website and mobile app for accessing the
 station and retrieving weather data.
 
 Unfortunately, the quality of the app and the website leaves much to be desired.  As a result, I have developed
